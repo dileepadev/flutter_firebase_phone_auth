@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dev.dileepabandara.flutter_firebase_phone_auth">
+    package="dev.dileepabandara.flutterfirebasephoneauth">
    <application
         android:label="Phone Auth (Flutter Firebase)"
         android:name="${applicationName}"

@@ -1,4 +1,4 @@
-package dev.dileepabandara.flutter_firebase_phone_auth
+package dev.dileepabandara.flutterfirebasephoneauth
 
 import io.flutter.embedding.android.FlutterActivity
 

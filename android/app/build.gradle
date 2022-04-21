@@ -36,7 +36,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "dev.dileepabandara.flutter_firebase_phone_auth"
+        applicationId "dev.dileepabandara.flutterfirebasephoneauth"
 //        minSdkVersion flutter.minSdkVersion
 //        targetSdkVersion flutter.targetSdkVersion
         minSdkVersion 19
