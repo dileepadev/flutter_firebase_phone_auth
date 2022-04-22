@@ -36,7 +36,9 @@ Before you get started, follow these requirements
 
 - Firebase project
 - Dart SDK >=2.7.0 <3.0.0
-- Flutter SDK >=1.17.0
+- Flutter SDK >=2.0.0
+- Android Gradle Plugin Version = 7.0.4
+- Gradle Version = 7.0.2
 
 ## 🍃 How to Setup
 
