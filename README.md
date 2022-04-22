@@ -35,7 +35,7 @@ Deployment is not currently in use
 Before you get started, follow these requirements
 
 - Firebase project
-- Dart SDK >=2.14.0 <3.0.0
+- Dart SDK >=2.7.0 <3.0.0
 - Flutter SDK >=1.17.0
 
 ## 🍃 How to Setup
