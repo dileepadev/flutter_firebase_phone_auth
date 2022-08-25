@@ -71,7 +71,7 @@ Before you get started, follow these requirements
 
 ## 🖼️ Project Gallery
 
-Project screenshots and pictures - [Project Gallery](https://dileepabandara.github.io/project-gallery)
+Project screenshots and pictures - [Click here to view](https://www.figma.com/file/BIp5vZzQDFVzfoMOhNwpm8/Flutter-Firebase-Phone-Auth---Mobile-App-UI?node-id=0%3A1)
 
 ## ❤️ Thanks
 
